@@ -84,7 +84,6 @@ function crearMensajeHTML(mensaje, personaje, lat, lng, foto) {
         </div>
         <div class="bubble-container">
             <div class="bubble">
-                <h3>@${ personaje }</h3>
                 <br/>
                 ${ mensaje }
                 `;
