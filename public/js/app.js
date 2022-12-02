@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/twittor/sw.js';
+var swLocation = 'https://champion-production.up.railway.app/sw.js';
 
 var swReg;
 
